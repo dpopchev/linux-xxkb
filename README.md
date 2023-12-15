@@ -1,6 +1,6 @@
 # linux-xxkb
 
-Configuration to distribute for `xxkb`.
+Configuration for `xxkb`.
 
 ## Quickstart
 
